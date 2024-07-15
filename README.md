@@ -1,1 +1,1 @@
-# Computación-Gráfica
+# Computación Gráfica
